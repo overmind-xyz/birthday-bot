@@ -4,7 +4,7 @@ version = "1.0.0"
 
 [addresses]
 std = "0x1"
-overmind = "0x1337"
+overmind = "_"
 
 [dependencies]
 MoveStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/move-stdlib", rev = "093b497d1267715a222845aad4fd3ca59da90e8d" }
